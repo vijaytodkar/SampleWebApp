@@ -2,7 +2,7 @@ package junit;
 
 import static org.junit.Assert.*;
 
-//This is  just a sqldev test 3
+//This is  just a sqldev test 3 Done
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
